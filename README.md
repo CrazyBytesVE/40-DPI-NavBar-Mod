@@ -12,3 +12,20 @@
 ---
 ## Créditos
 - [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
+
+***ENGLISH VERSION***
+
+# 36 DPI NavBar
+
+---
+## Quick view
+- Reduces the size of the navigation bar to 36 DPI, maximizing the available screen space.
+
+## Compatibility
+- Android higher than version 8 (May work on older versions, not tested).
+- Magisk above version 20.4
+- Tested on AOSP style ROMs (CrDroid, Pixel, etc). Not guaranteed to work on ROMs with complex graphical layers (Miui, for example).
+
+---
+## Credits
+- [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
