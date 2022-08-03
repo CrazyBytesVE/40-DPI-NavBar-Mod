@@ -13,7 +13,11 @@
 ## Créditos
 - [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
 
-***ENGLISH VERSION***
+---
+
+*ENGLISH VERSION*
+
+---
 
 # 36 DPI NavBar
 
