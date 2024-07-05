@@ -25,7 +25,7 @@ REPLACE="
 print_modname() {
   ui_print " "
   ui_print " *    SystemLess Resize   *"
-  ui_print " *      NavBar 36 DPI     *"
+  ui_print " *      NavBar 40 DPI     *"
   ui_print " *   For AOSP Android >8  *"
   ui_print " "
 }
